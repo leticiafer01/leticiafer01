@@ -1,6 +1,6 @@
-👋 Olá! Meu nome é [Letícia Caroline F.] eu tenho [25] anos. 
+👋 Olá! Meu nome é Letícia Caroline F. eu tenho 25 anos. 
 
-🎓 Atualmente, estou estudando na Alura, onde estou aprimorando minhas habilidades em [programação.].
+🎓 Atualmente, estou estudando na Alura, onde estou aprimorando minhas habilidades em programação.
 
 💻 Estou sempre em busca de aprender mais e me desenvolver profissionalmente. Se você quiser conversar ou trocar ideias, fique à vontade para me contatar!
 
