@@ -51,8 +51,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/leticiafer01/projeto2">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=projeto2&theme=blue" />
+        <a href="https://github.com/leticiafer01/Jogo-do-amigo-secreto">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Jogo-do-amigo-secreto&theme=blue" />
         </a>
       </td>
     </tr>
