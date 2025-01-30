@@ -1,6 +1,9 @@
-<h1 align="center"><span style="color: blue;"> 🖖Olá! Sejam Bem Vindos.🖖 </span></h1>
+<h1 align="center">
+  <span style="color: blue;"> ✨ Olá! Seja bem-vindo. ✨ </span>
+</h1>
+
 <p align="center">
-  <span style="color: blue;">Desenvolvedora Data Science</span>
+  <span style="color: blue; font-size: 1.5em;"> Desenvolvedora Data Science </span>
 </p>
 
 <div align="center">
@@ -9,15 +12,15 @@
 
 ---
 
-## 👩‍💻 <span style="color: blue;">Sobre Mim</span>
+<h2 align="center">👩‍💻 <span style="color: blue;">Sobre Mim</span></h2>
 <p align="justify">
-  <span style="color: blue;">Olá! Sou estudante de programação apaixonada por tecnologia tenho conhecimentos em HTML, CSS, JavaScript, Python entre outras linguagens.
-    Estou sempre em busca de novos aprendizados, explorando áreas como desenvolvimento web, machine learning e automação,gosto de transformar dados em insights e criar soluções eficientes por meio do código..</span>
+  <span style="color: blue;"> Olá! Sou estudante de programação apaixonada por tecnologia. Tenho conhecimentos em HTML, CSS, JavaScript, Python, entre outras linguagens. 
+    Estou sempre em busca de novos aprendizados, explorando áreas como desenvolvimento web, machine learning e automação. Gosto de transformar dados em insights e criar soluções eficientes por meio do código.</span>
 </p>
 
 ---
 
-## 📊 <span style="color: blue;">Estatísticas do GitHub</span>
+<h2 align="center">📊 <span style="color: blue;">Estatísticas do GitHub</span></h2>
 <div align="center">
   <table>
     <tr>
@@ -33,8 +36,10 @@
 
 ---
 
-## 🧮 Tecnologias e Ferramentas  
-
+<h2 align="center">🧮 Tecnologias e Ferramentas</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
+</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
@@ -52,7 +57,7 @@
 
 ---
 
-## 🌱 <span style="color: blue;">Projetos Destacados</span>
+<h2 align="center">🌱 <span style="color: blue;">Projetos Destacados</span></h2>
 <div align="center">
   <table>
     <tr>
@@ -72,7 +77,11 @@
 
 ---
 
-## 📬 <span style="color: blue;">Contato</span>
+<h2 align="center">📬 <span style="color: blue;">Contato</span></h2>
+<p align="center">
+</p><p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4M2xoaWEwY3ptbnNzYTkzZjRqdzJ6OXN0ODFiNHV4NW90aTU2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="150" />
+</p>
 <div align="center">
   <a href="mailto:leticiacaros69@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
