@@ -58,6 +58,7 @@
 ---
 
 <h2 align="center">🌱 <span style="color: blue;">Projetos Destacados</span></h2>
+
 <div align="center">
   <table>
     <tr>
@@ -72,8 +73,16 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/leticiafer01/Calculadora-IMC">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Calculadora-IMC&theme=blue" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
+
 
 ---
 
