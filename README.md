@@ -1,6 +1,7 @@
-<h1 align="center">
-  <span style="color: blue;"> ✨ Olá! Seja bem-vindo. ✨ </span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%A8+Ol%C3%A1!+Seja+bem-vindo.+%E2%9C%A8&font=Fira%20Code&center=true&width=450&height=60&duration=4000&pause=1000&color=black" alt="Olá! Seja bem-vindo.">
+</p>
+
 
 <p align="center">
   <span style="color: blue; font-size: 1.5em;">  </span>
