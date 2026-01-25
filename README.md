@@ -64,36 +64,26 @@
 
 ---
 
-<h2 align="center">🌱 Projetos em destaque</h2>
+<h2 align="center">🌱 Projetos</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/leticiafer01/Jogo-do-numero-secreto">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Jogo-do-numero-secreto&theme=transparent" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/leticiafer01/Jogo-do-amigo-secreto">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Jogo-do-amigo-secreto&theme=transparent" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/leticiafer01/Calculadora-IMC">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Calculadora-IMC&theme=transparent" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/leticiafer01/NOME-DO-NOVO-PROJETO">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=NOME-DO-NOVO-PROJETO&theme=transparent" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/leticiafer01/Jogo-do-numero-secreto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Jogo-do-numero-secreto&theme=transparent" />
+  </a>
+  <a href="https://github.com/leticiafer01/Jogo-do-amigo-secreto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Jogo-do-amigo-secreto&theme=transparent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/leticiafer01/Calculadora-IMC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Calculadora-IMC&theme=transparent" />
+  </a>
+  <a href="https://leticiafer01.github.io/Heavens-Studio/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Heavens-Studio&theme=transparent" />
+  </a>
+</p>
+
 
 ---
 
