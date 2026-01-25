@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%A8+Ol%C3%A1!+Seja+bem-vindo.+%E2%9C%A8&font=Fira%20Code&center=true&width=450&height=60&duration=4000&pause=1000&color=black" alt="Olá! Seja bem-vindo.">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%A8+Ol%C3%A1!+Seja+bem-vindo+%E2%9C%A8&font=Fira%20Code&center=true&width=450&height=60&duration=4000&pause=1000&color=black" alt="Olá! Seja bem-vindo.">
 </p>
 
 
@@ -18,10 +18,7 @@
 
 <p align="justify">
   <span style="color: white;">
-    🌟 Olá! Sou estudante de programação que ama tecnologia e por tudo o que é possível criar com ela.
-    Tenho conhecimentos em HTML, CSS, JavaScript e Python, e adoro explorar novas ferramentas e linguagens.
-    Estou sempre aprendendo algo novo, principalmente nas áreas de desenvolvimento web, machine learning e automação.
-    Gosto de transformar ideias em código, dados em insights e desafios em soluções criativas. 🚀.
+    Sou estudante de programação com foco em front-end, área onde posso transformar ideias em interfaces que fazem sentido e funcionam bem. Trabalho com HTML, CSS e JavaScript, criando experiências visuais simples, responsivas e agradáveis de usar, gosto de cuidar dos detalhes, experimentar novas soluções e aprender algo novo a cada projeto. Também tenho conhecimentos em Python, o que amplia minha visão sobre desenvolvimento.
   </span>
 </p>
 
@@ -67,26 +64,31 @@
 
 ---
 
-<h2 align="center">🌱 <span style="color: white;">Projetos Destacados</span></h2>
+<h2 align="center">🌱 Projetos em destaque</h2>
 
 <div align="center">
   <table>
     <tr>
       <td>
         <a href="https://github.com/leticiafer01/Jogo-do-numero-secreto">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Jogo-do-numero-secreto&theme=transparent" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Jogo-do-numero-secreto&theme=transparent" />
         </a>
       </td>
       <td>
         <a href="https://github.com/leticiafer01/Jogo-do-amigo-secreto">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Jogo-do-amigo-secreto&theme=transparent" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Jogo-do-amigo-secreto&theme=transparent" />
         </a>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td>
         <a href="https://github.com/leticiafer01/Calculadora-IMC">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Calculadora-IMC&theme=transparent" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/leticiafer01/NOME-DO-NOVO-PROJETO">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=NOME-DO-NOVO-PROJETO&theme=transparent" />
         </a>
       </td>
     </tr>
@@ -95,10 +97,10 @@
 
 ---
 
-<h2 align="center">📬 <span style="color: white;">Contato</span></h2>
+<h2 align="center">📬 Contato</h2>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4M2xoaWEwY3ptbnNzYTkzZjRqdzJ6OXN0ODFiNHV4NW90aTU2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" width="150" />
 </p>
 
 <div align="center">
@@ -109,4 +111,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
