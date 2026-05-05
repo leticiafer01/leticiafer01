@@ -16,13 +16,38 @@
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+---
+<!-- <br>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiafer01&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/vercel.app/api/top-langs/?username=leticiafer01&layout=compact&langs_count=7&theme=transparent" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leticiafer01&theme=transparent" />
-</div>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henrytos/Henrytos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrytos/Henrytos/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/Henrytos/output/pacman-contribution-graph.svg">
+</picture>  -->
+<table>
+ <table>
+  <tr>
+  
+    <td>
+
+<h3>🎨 Front-end</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+</p>
+
+<h3>⚙️ Back-end</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flutter,dart,prisma&theme=dark" />
+</p>
+
+<h3>🗄️ Databases 🛠️ Tools & Environment</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vscode,linux,mysql&theme=dark" />
+</p>
+
+   </td>
+  </tr>
+</table>
 
 ---
 
@@ -39,48 +64,29 @@
 
 ---
 
-<h2 align="center">🧮 Tecnologias e Ferramentas</h2>
+<h2 align="center">🌱 Projects</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
-</p>
+<table>
+<tr>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="60" />
-</div>
-
----
-
-<h2 align="center">🌱 Projetos</h2>
-
-<p align="center">
-  <a href="https://github.com/leticiafer01/Jogo-do-numero-secreto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Jogo-do-numero-secreto&theme=transparent" />
-  </a>
-  <a href="https://github.com/leticiafer01/Jogo-do-amigo-secreto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Jogo-do-amigo-secreto&theme=transparent" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/leticiafer01/Calculadora-IMC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Calculadora-IMC&theme=transparent" />
-  </a>
+<td align="center">
   <a href="https://leticiafer01.github.io/Heavens-Studio/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leticiafer01&repo=Heavens-Studio&theme=transparent" />
+    <img src="https://raw.githubusercontent.com/leticiafer01/SEU-REPO/main/assets/bonne-journee.png" width="300"/>
+    <br><br>
+    <strong>Bonne Journée</strong>
   </a>
-</p>  
+</td>
+
+<td align="center">
+  <a href="https://github.com/leticiafer01/Jogo-do-numero-secreto">
+    <img src="https://via.placeholder.com/300x180.png?text=Project" width="300"/>
+    <br><br>
+    <strong>Secret Number Game</strong>
+  </a>
+</td>
+
+</tr>
+</table>
 
 ---
 
