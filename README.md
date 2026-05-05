@@ -11,6 +11,10 @@
 </p>
 
 ---
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
 
 <h3>🕌 Front-end</h3>
 <p>
@@ -27,13 +31,18 @@
   <img src="https://skillicons.dev/icons?i=postgres,docker,git,github,vscode,linux,mysql&theme=dark" />
 </p>
 
----
+</td>
 
-<h2 align="center">🛵 Recent Activity</h2>
+<td width="50%" align="center" valign="top">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=leticiafer01&theme=tokyonight&hide_border=true" />
-</p>
+<h3>🛵 Recent Activity</h3>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=leticiafer01&theme=tokyonight&hide_border=true" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 <h2 align="center">🌱 Projects</h2>
@@ -71,18 +80,3 @@
 </table>
 
 ---
-
-<h2 align="center">📮 Contact</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" width="150" />
-</p>
-
-<div align="center">
-  <a href="mailto:leticiacaros69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/leticiafersa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
