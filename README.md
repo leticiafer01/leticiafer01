@@ -65,13 +65,12 @@
 ---
 
 <h2 align="center">🌱 Projects</h2>
-
 <table>
 <tr>
 
 <td align="center">
   <a href="https://leticiafer01.github.io/Heavens-Studio/">
-    <img src="https://raw.githubusercontent.com/leticiafer01/SEU-REPO/main/assets/bonne-journee.png" width="300"/>
+    <img src="https://github.com/user-attachments/assets/392f29c5-0fde-41fd-bc06-4754958b9984" width="300"/>
     <br><br>
     <strong>Bonne Journée</strong>
   </a>
@@ -87,8 +86,6 @@
 
 </tr>
 </table>
-
----
 
 <h2 align="center">📬 Contato</h2>
 
